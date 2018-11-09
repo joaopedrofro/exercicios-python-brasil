@@ -2,7 +2,7 @@
 Exercícios propostos do site Python Brasil **resolvidos**
 
 ## Lista dos conteúdos abordados nos exercícios:
-+ Estrutura Sequencial
++ Estrutura Sequencial **\(Disponível\)**
 + Estrutura Condicional
 + Estrutura de Repetição
 + Funções
