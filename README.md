@@ -11,3 +11,7 @@ Exercícios propostos do site Python Brasil **resolvidos**
 + Arquivos
 + Classes
 + Projetos
+
+### Obsevações
+- Para imprimir texto formatado na tela, foi utilizado os caracteres de escape ao invés da função format por motivos de compatibilidade com o Python 2, além de que os iniciantes já estão acostumados a utilizar esse tipo de formatação.
+- O *Exercício 17* de *Estrutura Sequencial* não foi concluído
